@@ -1,4 +1,3 @@
 *.pt
-!squirrel_detector_v9.pt
 *.pyc
 __pycache__/
